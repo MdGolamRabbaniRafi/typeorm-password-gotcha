@@ -1,0 +1,6 @@
+# Dependencies
+node_modules/
+
+# Package files (NOT recommended for OSS)
+package.json
+package-lock.json
